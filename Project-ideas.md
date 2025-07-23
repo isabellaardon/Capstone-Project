@@ -1,5 +1,29 @@
 USF Capstone Full-Stack Project Application
 
+PREFERRED IDEA 
+1️ VerseFlow: The Interactive Bible Study App for Real Understanding 🙏
+
+🚨 Problem: Most people want to read the Bible—but they feel overwhelmed, confused, or disconnected. Traditional Bible apps are either too academic or too shallow, offering no real understanding, no context, and no space for questions. As a result, people give up or rely on others to interpret Scripture for them.
+
+💡 Solution: Build a personalized, interactive Bible app that helps users understand the Word—not just read it. Features include:
+📖 Verse-by-Verse Breakdown with context, explanation & cross-references
+🧠 AI-Powered Explanations for difficult concepts or confusing passages
+📝 In-App Notes, Journals & Questions with community answers or AI support
+🗣️ Ask God Anything – natural language Bible search and conversation
+🔍 Study Modes: Topical, Chronological, Devotional, or Deep Dive
+🌐 Optional Bible Study Group Creation for shared learning
+
+🔗 APIs You Could Use:
+Bible API (e.g., ESV, NIV for Scripture)
+OpenAI API (for dynamic explanations and Q&A)
+Contentful or Strapi (to manage study guides & lessons)
+
+🎯 Why It’s Impressive?
+Solves a deep spiritual pain point with real tech. Makes Bible literacy more accessible and engaging.
+Tech Stack Showcased: React Native (mobile app), Node.js/Express (backend), MongoDB (notes, bookmarks, users).
+Business Potential: Premium features (AI study coach, group leader tools), church/group licensing, and affiliate devotionals.
+
+
 #1 IDEA
 FitFaith: A Christian-Based Fitness & Accountability Platform 🔹 The Problem: Current fitness apps lack faith-based motivation and Christian community support. Many Christian personal trainers struggle to engage clients beyond just workouts.
 
